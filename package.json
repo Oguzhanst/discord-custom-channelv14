@@ -1,0 +1,29 @@
+{
+  "name": "v14-custom",
+  "version": "0.0.1",
+  "description": "Ozel Oda Sistemi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "license": "GPL-3.0-only",
+  "dependencies": {
+    "@discordjs/builders": "^1.2.0",
+    "@discordjs/rest": "^1.1.0",
+    "@discordjs/voice": "^0.11.0",
+    "discord-api-types": "^0.37.8",
+    "discord.js": "^14.8.0",
+    "fs": "^0.0.2",
+    "wio.db": "^4.0.22"
+  },
+  "keywords": [
+    "v14",
+    "discord-v14",
+    "v14 bot",
+    "discord v14",
+    "discord"
+  ]
+}
